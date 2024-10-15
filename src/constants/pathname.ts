@@ -1,0 +1,15 @@
+export const pathNames = {
+  HOME: "/",
+  LOGIN: "/login",
+  ATTENDANCE: "/attendance",
+  FACULTY: "/faculty",
+  LETTER: "/letter",
+  NOTIFICATION: "/notification",
+  ROOM: "/room",
+  MAJOR: "/major",
+  USER: "/user",
+  CLASS: "/class",
+  THEME: "/theme",
+  PERMISSION: "/permission",
+  STUDENT: "/student",
+};
